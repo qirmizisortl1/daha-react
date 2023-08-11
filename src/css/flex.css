@@ -1,0 +1,22 @@
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+}
+
+.between{justify-content: space-between;}
+.around{justify-content: space-around;}
+.evenly{justify-content: space-evenly;}
+
+.justify-start{justify-content: start;}
+.justify-center{justify-content: center;}
+.justify-end{justify-content: end;}
+
+.align-start{align-items: start;}
+.align-center{align-items: center;}
+.align-end{align-items: end;}
+
+.wrap{flex-wrap: wrap;}

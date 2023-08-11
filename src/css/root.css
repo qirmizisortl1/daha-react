@@ -1,0 +1,26 @@
+:root{
+    /* colors */
+    --danger:#B73E3E;
+    --warning:#FFB200;
+    --primary:#256D85;
+    --succes:#68B984;
+    --secondary:#FF7000;
+    --dark-grey:#2B2B2B;
+    --light:#f2f2f2;
+    --grey:#393E46;
+    --dark:#444444;
+    --black:#000;
+    --white:#fff;
+
+    /* margin */
+    --margin-1:1rem;
+    --margin-2:1.6rem;
+    --margin-3:2.4rem;
+    --margin-4:3.5rem;
+
+    /* padding */
+    --padding-1:1rem;
+    --padding-2:1.6rem;
+    --padding-3:2.4rem;
+    --padding-4:3.5rem;
+}
